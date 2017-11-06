@@ -1,0 +1,27 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.eh.plugins.PushPlugin": {
+            "PACKAGE_NAME": "com.realdealagency.admob"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.realdealagency.admob"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.realdealagency.admob"
+        },
+        "admob": {
+            "PACKAGE_NAME": "com.realdealagency.admob"
+        },
+        "pushbots-cordova-plugin": {
+            "PACKAGE_NAME": "com.realdealagency.admob"
+        }
+    },
+    "dependent_plugins": {}
+}
