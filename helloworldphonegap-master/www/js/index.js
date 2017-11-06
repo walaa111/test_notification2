@@ -40,7 +40,8 @@ var app = {
 	*/
 	
 	//alert('end of ready');
- PushbotsPlugin.initialize("AIzaSyAx7TfvBIBAD6cUvdVrolaeMUmuE27fNjQ")
+
+	    window.plugins.PushbotsPlugin.initialize("5a0051a79b823a5a088b4579", {"android":{"sender_id":"undefined"}});
     },
 
     // Update DOM on a Received Event
