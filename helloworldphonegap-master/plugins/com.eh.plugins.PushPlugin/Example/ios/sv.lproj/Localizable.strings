@@ -1,0 +1,23 @@
+
+// controller title for Videos
+"Videos title" = "Videos";
+// accessibility label for recording button
+"toggle audio recording" = "toggle audio recording";
+// notification spoken by VoiceOver when timed recording finishes
+"timed recording complete" = "timed recording complete";
+// accessibility hint for display of recorded elapsed time
+"recorded time in minutes and seconds" = "recorded time in minutes and seconds";
+"NEW_TARIFF"=	"Electricity contract was modified.";
+"FROST_PROTECTION_ALARM_END" 	="The temperature in {0} is no longer below {1}\u00B0C.";
+"END_OF_LOAD_TRIP_WARNING"	="Power usage no longer high";
+"DEVICE_ONLINE"	="{0} is back online";
+"AUTO_TEST_STARTED"=	"System Auto Test started";
+"AUTO_TEST_DONE" 	="System Auto Test result - passed: {0} , failed: {1}";
+"OPEN_WINDOW_DETECTED"	="Significant drop in temperature detected at {0} {1}.";
+"LOAD_TRIP_WARNING"	="{0} : The electricity consumption is very high. Turn off one or more appliances to reduce risk of losing all power.";
+"DEVICE_BATTERY_FAILED"	="{0}{1} has run out of battery. Replace the batteries.";
+"FROST_PROTECTION_ALARM"	="The temperature in {0} is below {1}\u00B0C. Your goods are in danger. Check that outside windows and doors are closed and that your heating installation is running.";
+"HEATING_PERFORMANCE_ALARM"	="Heating performance issue detected in {0}. Please ensure that windows are closed and heater not covered.";
+"DEVICE_NOT_RESPONDING"	="{0}{1} is not responding, please check the power supply or wireless communication";
+"93"	="Off-peak period started";
+"94"	="Peak period started"

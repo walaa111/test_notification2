@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Wiser Smart</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="AUTO_TEST_STARTED">Automatischer Systemtest wurde gestartet.</string>
+    <string name="DEVICE_BATTERY_FAILED">Keine Batterieversorgung mehr für {0} {1} verfügbar. Ersetzen Sie die Batterien.</string>
+    <string name="DEVICE_NOT_RESPONDING">{0} {1} antwortet nicht. Überprüfen Sie die Stromversorgung oder die Funkverbindung.</string>
+    <string name="DHW_LACT_OFF_24H_ALARM">Your hot water tank has been off for at least 24 hours.-da</string>
+    <string name="FROST_PROTECTION_ALARM">Die Temperatur in {0} ist unter {1}\u00b0C. Ihr Eigentum ist in Gefahr. Überprüfen Sie, ob die Außenfenster und -türen geschlossen sind und Ihre Heizanlage in Betrieb ist.</string>
+    <string name="HEATING_PERFORMANCE_ALARM">Der er registreret problemer med varmetilførsel i {0}. Sørg for, at vinduer er lukket, og at opvarmningsapparatet ikke er tildækket.</string>
+    <string name="LOAD_TRIP_WARNING">{0} : Elforbruget er meget højt. Sluk ét eller flere apparater for at mindske risikoen for at miste al strøm.</string>
+    <string name="SHEDDING_WARNING">Shedding activated for {0} due to risk of circuit breaker tripping.-da</string>
+
+    <string name="DHW_LACT_OFF_24H_ALARM_END">Your hot water tank has been turned on again.-da</string>
+    <string name="FROST_PROTECTION_ALARM_END">The temperature in {0} is no longer below {1}\u00B0C.-da</string>
+    <string name="HEATING_PERFORMANCE_ALARM_END">Heating performance issue in {0} solved.-da</string>
+    <string name="SHEDDING_WARNING_END">Shedding deactivated for {0}.-da</string>
+    <string name="OPEN_WINDOW_END">Temperature setpoint restored at {0} {1}.-da</string>
+
+    <string name="AUTO_TEST_DONE">Resultat af automatisk systemtest - bestået: {0} , ikke-bestået: {1}.</string>
+    <string name="END_OF_LOAD_TRIP_WARNING">Strømforbruget er ikke længere højt.</string>
+    <string name="OPEN_WINDOW_DETECTED">Der er registreret et betydeligt temperaturfald på {0} {1}.</string>
+    <string name="NEW_OFFPEAK_TARIFF">Lavprisperiode startet.</string>
+    <string name="NEW_PEAK_TARIFF">Højprisperiode startet.</string>
+    <string name="DEVICE_ONLINE">{0} er igen online.</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Wiser Smart</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="AUTO_TEST_STARTED">Test automatico sistema iniziato.</string>
+    <string name="DEVICE_BATTERY_FAILED">Batterie di {0} {1} esaurite. Sostituire le batterie.</string>
+    <string name="DEVICE_NOT_RESPONDING">{0} {1} non risponde. Controllare l\'alimentazione o la comunicazione wireless.</string>
+    <string name="DHW_LACT_OFF_24H_ALARM">Your hot water tank has been off for at least 24 hours.-it</string>
+    <string name="FROST_PROTECTION_ALARM">La temperatura in {0} è inferiore a {1}\u00b0C. Le merci sono in pericolo. Verificare che le finestre e le porte siano chiuse e che l\'impianto di riscaldamento sia in funzione.</string>
+    <string name="HEATING_PERFORMANCE_ALARM">Problema di prestazioni di riscaldamento rilevato in {0}. Assicurarsi che le finestre siano chiuse e che il calorifero non sia coperto.</string>
+    <string name="LOAD_TRIP_WARNING">{0} : Il consumo di elettricità è molto elevato. Spegnere uno o più apparecchi per ridurre il rischio di interruzione di energia.</string>
+    <string name="SHEDDING_WARNING">Shedding activated for {0} due to risk of circuit breaker tripping.-it</string>
+
+    <string name="DHW_LACT_OFF_24H_ALARM_END">Your hot water tank has been turned on again.-it</string>
+    <string name="FROST_PROTECTION_ALARM_END">The temperature in {0} is no longer below {1}\u00B0C.-it</string>
+    <string name="HEATING_PERFORMANCE_ALARM_END">Heating performance issue in {0} solved.-it</string>
+    <string name="SHEDDING_WARNING_END">Shedding deactivated for {0}.-it</string>
+    <string name="OPEN_WINDOW_END">Temperature setpoint restored at {0} {1}.-it</string>
+
+    <string name="AUTO_TEST_DONE">Risultato test automatico sistema - superato: {0} , non superato: {1}.</string>
+    <string name="END_OF_LOAD_TRIP_WARNING">Energia consumata nei limiti.</string>
+    <string name="OPEN_WINDOW_DETECTED">Calo significativo della temperatura rilevato in {0} {1}.</string>
+    <string name="NEW_OFFPEAK_TARIFF">Inizio della fascia di fuori picco.</string>
+    <string name="NEW_PEAK_TARIFF">Inizio della fascia di picco.</string>
+    <string name="DEVICE_ONLINE">{0} è nuovamente online.</string>
+
+
+</resources>

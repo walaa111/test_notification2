@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Wiser Smart</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="AUTO_TEST_STARTED">Automatiskt systemtest startat.</string>
+    <string name="DEVICE_BATTERY_FAILED">Batterierna i {0} {1} är slut. Byt ut batterierna.</string>
+    <string name="DEVICE_NOT_RESPONDING">{0} {1} svarar inte, kontrollera strömförsörjningen eller den trådlösa kommunikationen.</string>
+    <string name="DHW_LACT_OFF_24H_ALARM">Your hot water tank has been off for at least 24 hours.-sv</string>
+    <string name="FROST_PROTECTION_ALARM">Temperaturen i {0} är under  {1}\u00b0C. Dina varor är i fara. Kontrollera att fönster och dörrar mot utsidan är stängda och att din uppvärmningsanordning är igång.</string>
+    <string name="HEATING_PERFORMANCE_ALARM">Problem med värmeprestanda påvisat i {0}. Säkerställ att alla fönster är stängda och att värmeanordningen inte är övertäckt.</string>
+    <string name="LOAD_TRIP_WARNING">{0} : Strömförbrukningen är väldigt hög. Stäng av en eller flera apparater för att minska risken för att all ström försvinner.</string>
+    <string name="SHEDDING_WARNING">Shedding activated for {0} due to risk of circuit breaker tripping.-sv</string>
+
+    <string name="DHW_LACT_OFF_24H_ALARM_END">Your hot water tank has been turned on again.-sv</string>
+    <string name="FROST_PROTECTION_ALARM_END">The temperature in {0} is no longer below {1}\u00B0C.-sv</string>
+    <string name="HEATING_PERFORMANCE_ALARM_END">Heating performance issue in {0} solved.-sv</string>
+    <string name="SHEDDING_WARNING_END">Shedding deactivated for {0}.-sv</string>
+    <string name="OPEN_WINDOW_END">Temperature setpoint restored at {0} {1}.-sv</string>
+
+    <string name="AUTO_TEST_DONE">Resultat av automatiskt systemtest – godkänt: {0}, ej godkänt: {1}.</string>
+    <string name="END_OF_LOAD_TRIP_WARNING">Elanvändningen är inte längre hög.</string>
+    <string name="OPEN_WINDOW_DETECTED">En betydande temperaturminskning påvisad vid {0} {1}.</string>
+    <string name="NEW_OFFPEAK_TARIFF">Lågbelastningsperiod startade.</string>
+    <string name="NEW_PEAK_TARIFF">Högbelastningsperiod startade.</string>
+    <string name="DEVICE_ONLINE">{0} är ansluten igen.</string>
+
+</resources>

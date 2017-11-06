@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Wiser Smart</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="AUTO_TEST_STARTED">Le test automatique du système a démarré.</string>
+    <string name="DEVICE_BATTERY_FAILED">Les piles du %%s %%s sont vides. Remplacez les piles.</string>
+    <string name="DEVICE_NOT_RESPONDING">{0} {1} ne répond pas. Vérifiez son alimentation ou la communication sans fil</string>
+    <string name="DHW_LACT_OFF_24H_ALARM">Your hot water tank has been off for at least 24 hours.-fr</string>
+    <string name="FROST_PROTECTION_ALARM">La température dans %%s est inférieure à {0}}\u00b0C. Vos biens sont en danger. Vérifiez que les fenêtres et portes extérieures sont bien fermées et que votre chauffage est en état de marche.</string>
+    <string name="HEATING_PERFORMANCE_ALARM">Problème de performance de chauffage détectée dans {0}. Veuillez vous assurer que les fenêtres sont fermées et que les radiateurs ne sont pas couverts.</string>
+    <string name="LOAD_TRIP_WARNING">{0} : la consommation actuelle est très élevée. Éteignez un ou plusieurs appareils pour réduire le risque de coupure d\'alimentation.</string>
+    <string name="SHEDDING_WARNING">Shedding activated for %%s due to risk of circuit breaker tripping.-fr</string>
+
+    <string name="DHW_LACT_OFF_24H_ALARM_END">Your hot water tank has been turned on again.-fr</string>
+    <string name="FROST_PROTECTION_ALARM_END">The temperature in {0} is no longer below {1}\u00B0C.-fr</string>
+    <string name="HEATING_PERFORMANCE_ALARM_END">Heating performance issue in {0} solved.-fr</string>
+    <string name="SHEDDING_WARNING_END">Shedding deactivated for {0}.-fr</string>
+    <string name="OPEN_WINDOW_END">Temperature setpoint restored at {0} {1}.-fr</string>
+
+    <string name="AUTO_TEST_DONE">Résultat du test automatique du système - réussite : {0}, échec : {1}.</string>
+    <string name="END_OF_LOAD_TRIP_WARNING">L\'utilisation de l\'énergie est redevenue normale.</string>
+    <string name="OPEN_WINDOW_DETECTED">Baisse significative de température détectée sur {0} {1}.</string>
+    <string name="NEW_OFFPEAK_TARIFF">Une période Heures Creuses a commencé.</string>
+    <string name="NEW_PEAK_TARIFF">Une période Heures Pleines a commencé.</string>
+    <string name="DEVICE_ONLINE">{0} est de nouveau en ligne.</string>
+</resources>

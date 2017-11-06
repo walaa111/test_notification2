@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Wiser Smart</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="AUTO_TEST_STARTED">Automatisk systemtest startet.</string>
+    <string name="DEVICE_BATTERY_FAILED">{0} {1} er løbet tør for batteri. Udskift batterierne.</string>
+    <string name="DEVICE_NOT_RESPONDING">{0} {1} svarer ikke. Kontrollér strømforsyningen eller den trådløse kommunikation.</string>
+    <string name="DHW_LACT_OFF_24H_ALARM">Your hot water tank has been off for at least 24 hours.-de</string>
+    <string name="FROST_PROTECTION_ALARM">Temperaturen i {0} er under {1}\u00b0C. Dine varer er i fare. Kontrollér, at vinduer og døre udtil er lukket, og at varmeinstallationen kører.</string>
+    <string name="HEATING_PERFORMANCE_ALARM">Der er registreret problemer med varmetilførsel i {0}. Sørg for, at vinduer er lukket, og at opvarmningsapparatet ikke er tildækket.</string>
+    <string name="LOAD_TRIP_WARNING">{0} : Elforbruget er meget højt. Sluk ét eller flere apparater for at mindske risikoen for at miste al strøm.</string>
+    <string name="SHEDDING_WARNING">Shedding activated for {0} due to risk of circuit breaker tripping.-de</string>
+
+    <string name="DHW_LACT_OFF_24H_ALARM_END">Your hot water tank has been turned on again.-de</string>
+    <string name="FROST_PROTECTION_ALARM_END">The temperature in {0} is no longer below {1}\u00B0C.-de</string>
+    <string name="HEATING_PERFORMANCE_ALARM_END">Heating performance issue in {0} solved.-de</string>
+    <string name="SHEDDING_WARNING_END">Shedding deactivated for {0}.-de</string>
+    <string name="OPEN_WINDOW_END">Temperature setpoint restored at {0} {1}.-de</string>
+
+    <string name="AUTO_TEST_DONE">Ergebnis des automatischen Systemtests – bestanden: {0}, fehlgeschlagen: {1}.</string>
+    <string name="END_OF_LOAD_TRIP_WARNING">Stromnutzung nicht länger hoch.</string>
+    <string name="OPEN_WINDOW_DETECTED">Erheblichen Temperaturabfall erkannt: {0} {1}.</string>
+    <string name="NEW_OFFPEAK_TARIFF">Nebenzeit gestartet.</string>
+    <string name="NEW_PEAK_TARIFF">Spitzenzeit gestartet.</string>
+    <string name="DEVICE_ONLINE">{0} ist wieder online.</string>
+
+
+</resources>

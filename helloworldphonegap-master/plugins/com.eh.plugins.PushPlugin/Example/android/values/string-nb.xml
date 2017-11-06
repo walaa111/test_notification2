@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Wiser Smart</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="AUTO_TEST_STARTED">Systemautotest startet.</string>
+    <string name="DEVICE_BATTERY_FAILED">{0} {1} har tomt batteri. Bytt batteriene.</string>
+    <string name="DEVICE_NOT_RESPONDING">{0} {1} svarer ikke, sjekk strømforsyningen eller den trådløse kommunikasjonen.</string>
+    <string name="DHW_LACT_OFF_24H_ALARM">Your hot water tank has been off for at least 24 hours.-nb</string>
+    <string name="FROST_PROTECTION_ALARM">Temperaturen i {0} er under  {1}\u00b0C. Tingene dine er i fare. Sjekk at utvendige vinduer og dører er lukket, og at oppvarmingsinstallasjonen er i drift.</string>
+    <string name="HEATING_PERFORMANCE_ALARM">Et oppvarmingsytelsesproblem ble oppdaget i {0}. Påse at vinduer er lukket og at oppvarmingsenheten ikke er tildekket.</string>
+    <string name="LOAD_TRIP_WARNING">{0} : Elektrisitetsforbruket er svært høyt. Slå av ett eller flere apparater for å redusere risikoen for å miste all strøm.</string>
+    <string name="SHEDDING_WARNING">Shedding activated for {0} due to risk of circuit breaker tripping.-nb</string>
+
+    <string name="DHW_LACT_OFF_24H_ALARM_END">Your hot water tank has been turned on again.-nb</string>
+    <string name="FROST_PROTECTION_ALARM_END">The temperature in {0} is no longer below {1}\u00B0C.-nb</string>
+    <string name="HEATING_PERFORMANCE_ALARM_END">Heating performance issue in {0} solved.-nb</string>
+    <string name="SHEDDING_WARNING_END">Shedding deactivated for {0}.-nb</string>
+    <string name="OPEN_WINDOW_END">Temperature setpoint restored at {0} {1}.-nb</string>
+
+    <string name="AUTO_TEST_DONE">Systemautotestresultat – bestått: {0}, ikke bestått: {1}</string>
+    <string name="END_OF_LOAD_TRIP_WARNING">Strømbruk ikke lenger høy.</string>
+    <string name="OPEN_WINDOW_DETECTED">Betydelig temperaturfall oppdaget på {0} {1}.</string>
+    <string name="NEW_OFFPEAK_TARIFF">Lavbelastningsperiode startet.</string>
+    <string name="NEW_PEAK_TARIFF">Høybelastningsperiode startet.</string>
+    <string name="DEVICE_ONLINE">{0} er tilkoblet igjen.</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">WiserPlugin</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="AUTO_TEST_STARTED">System Auto Test started.</string>
+    <string name="DEVICE_BATTERY_FAILED">{0} {1} has run out of battery. Replace the batteries.</string>
+    <string name="DEVICE_NOT_RESPONDING">{0} {1} is not responding, please check the power supply or wireless communication.</string>
+    <string name="DHW_LACT_OFF_24H_ALARM">Your hot water tank has been off for at least 24 hours.</string>
+    <string name="FROST_PROTECTION_ALARM">The temperature in {0} is below {1}\u00B0C. Your goods are in danger. Check that outside windows and doors are closed and that your heating installation is running.</string>
+    <string name="HEATING_PERFORMANCE_ALARM">Heating performance issue detected in {0}. Please ensure that windows are closed and heater not covered.</string>
+    <string name="LOAD_TRIP_WARNING">{0} : The electricity consumption is very high. Turn off one or more appliances to reduce risk of losing all power.</string>
+    <string name="SHEDDING_WARNING">Shedding activated for {0} due to risk of circuit breaker tripping.</string>
+    <string name="AUTO_TEST_DONE">System Auto Test result - passed: {0} , failed: {1}.</string>
+    <string name="DHW_LACT_OFF_24H_ALARM_END">Your hot water tank has been turned on again.</string>
+    <string name="END_OF_LOAD_TRIP_WARNING">Power usage no longer high.</string>
+    <string name="FROST_PROTECTION_ALARM_END">The temperature in {0} is no longer below {1}\u00B0C. </string>
+    <string name="HEATING_PERFORMANCE_ALARM_END">Heating performance issue in {0} solved.</string>
+    <string name="OPEN_WINDOW_DETECTED">Significant drop in temperature detected at {0} {1}.</string>
+    <string name="OPEN_WINDOW_END">Temperature setpoint restored at {0} {1}.</string>
+    <string name="SHEDDING_WARNING_END">Shedding deactivated for {0}.</string>
+    <string name="NEW_OFFPEAK_TARIFF">Off-peak period started.</string>
+    <string name="NEW_PEAK_TARIFF">Peak period started.</string>
+    <string name="DEVICE_ONLINE">{0} is back online.</string>
+</resources>
